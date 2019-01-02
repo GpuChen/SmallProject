@@ -29,7 +29,7 @@ namespace RateParse
                 tag = "";
             }
 
-            string constr = "SERVER =192.168.1.130;DATABASE=SAEE;UID=saee;PWD=92vsk48mdf";
+            string constr = "SERVER =192.168.1.130;DATABASE=SAEE;UID=-;PWD=-";
             string content;
 
             // 讀檔方式取JSON
