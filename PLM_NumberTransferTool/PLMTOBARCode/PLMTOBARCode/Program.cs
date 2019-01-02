@@ -19,18 +19,18 @@ namespace ConsoleApp1
             //Console.WriteLine("Hello world!");
             //SqlConnection con;
 
-            //string constr = "DRIVER ={MySQL ODBC 3.51 Driver};SERVER =192.168.1.129;DATABSE=SAEE_QAS;UID=saee;PWD=92vsk48mdf;OPTION=3";
+            //string constr = "DRIVER ={MySQL ODBC 3.51 Driver};SERVER =192.168.1.129;DATABSE=SAEE_QAS;UID=-;PWD=-;OPTION=3";
             //conn = new OdbcConnection(constr);                        
 
-            //string barcode_constr = "SERVER =192.168.1.130;DATABASE=SAIBARCODE;UID=bc;PWD=";
+            //string barcode_constr = "SERVER =192.168.1.130;DATABASE=SAIBARCODE;UID=-;PWD=-";
             //con = new SqlConnection(constr);
 
 
 
-            string constr = "SERVER =192.168.1.129;DATABASE=SAEE_QAS;UID=saee;PWD=92vsk48mdf";
-            string bcConstr = "SERVER =192.168.1.130;DATABASE=SAIBARCODE;UID=bc;PWD=init000";
-            string plmConstr = "SERVER =plmdb.saimtlg.com;DATABASE=SAIPLM930;UID=innovator;PWD=sai8923504#";
-            //string constr = "SERVER =192.168.1.129;DATABASE=SAEE_QAS;UID=saee;PWD=92vsk48mdf";
+            string constr = "SERVER =192.168.1.129;DATABASE=SAEE_QAS;UID=-;PWD=-";
+            string bcConstr = "SERVER =192.168.1.130;DATABASE=SAIBARCODE;UID=-;PWD=-";
+            string plmConstr = "SERVER =plmdb.saimtlg.com;DATABASE=SAIPLM930;UID=-;PWD=-";
+            //string constr = "SERVER =192.168.1.129;DATABASE=SAEE_QAS;UID=-;PWD=-";
             //string bcConstr = constr;
             //string plmConstr = constr;
 
