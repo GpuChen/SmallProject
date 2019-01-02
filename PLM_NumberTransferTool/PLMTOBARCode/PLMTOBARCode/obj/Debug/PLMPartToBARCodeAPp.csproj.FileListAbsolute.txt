@@ -1,0 +1,11 @@
+C:\Users\SAIVMBase\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\SAIVMBase\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\SAIVMBase\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\PLMPartToBARCodeAPp.csproj.CoreCompileInputs.cache
+C:\Users\SAIVMBase\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\SAIVMBase\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\SAIVMBase\source\repos\PLMTOBARCode\PLMTOBARCode\bin\Debug\ConsoleApp1.exe
+C:\Users\SAIVMBase\source\repos\PLMTOBARCode\PLMTOBARCode\bin\Debug\ConsoleApp1.pdb
+C:\Users\SAIVMBase\source\repos\PLMTOBARCode\PLMTOBARCode\obj\Debug\PLMPartToBARCodeAPp.csprojAssemblyReference.cache
+C:\Users\SAIVMBase\source\repos\PLMTOBARCode\PLMTOBARCode\obj\Debug\PLMPartToBARCodeAPp.csproj.CoreCompileInputs.cache
+C:\Users\SAIVMBase\source\repos\PLMTOBARCode\PLMTOBARCode\obj\Debug\ConsoleApp1.exe
+C:\Users\SAIVMBase\source\repos\PLMTOBARCode\PLMTOBARCode\obj\Debug\ConsoleApp1.pdb

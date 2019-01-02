@@ -1,0 +1,13 @@
+C:\Users\H7925\source\repos\RateParser\RateParser\bin\Debug\RateParser.exe.config
+C:\Users\H7925\source\repos\RateParser\RateParser\bin\Debug\RateParser.exe
+C:\Users\H7925\source\repos\RateParser\RateParser\bin\Debug\RateParser.pdb
+C:\Users\H7925\source\repos\RateParser\RateParser\bin\Debug\Dapper.dll
+C:\Users\H7925\source\repos\RateParser\RateParser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\H7925\source\repos\RateParser\RateParser\bin\Debug\Dapper.xml
+C:\Users\H7925\source\repos\RateParser\RateParser\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\H7925\source\repos\RateParser\RateParser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\H7925\source\repos\RateParser\RateParser\obj\Debug\RateParser.csproj.CoreCompileInputs.cache
+C:\Users\H7925\source\repos\RateParser\RateParser\obj\Debug\RateParser.csproj.CopyComplete
+C:\Users\H7925\source\repos\RateParser\RateParser\obj\Debug\RateParser.exe
+C:\Users\H7925\source\repos\RateParser\RateParser\obj\Debug\RateParser.pdb
+C:\Users\H7925\source\repos\RateParser\RateParser\obj\Debug\RateParser.csprojAssemblyReference.cache
