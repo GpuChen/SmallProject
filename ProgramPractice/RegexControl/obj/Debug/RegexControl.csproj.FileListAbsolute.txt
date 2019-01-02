@@ -1,0 +1,10 @@
+Z:\ProgramPractice\RegexControl\bin\Debug\RegexControl.exe.config
+Z:\ProgramPractice\RegexControl\bin\Debug\RegexControl.exe
+Z:\ProgramPractice\RegexControl\bin\Debug\RegexControl.pdb
+Z:\ProgramPractice\RegexControl\obj\Debug\RegexControl.csprojAssemblyReference.cache
+Z:\ProgramPractice\RegexControl\obj\Debug\RegexControl.Form1.resources
+Z:\ProgramPractice\RegexControl\obj\Debug\RegexControl.Properties.Resources.resources
+Z:\ProgramPractice\RegexControl\obj\Debug\RegexControl.csproj.GenerateResource.cache
+Z:\ProgramPractice\RegexControl\obj\Debug\RegexControl.csproj.CoreCompileInputs.cache
+Z:\ProgramPractice\RegexControl\obj\Debug\RegexControl.exe
+Z:\ProgramPractice\RegexControl\obj\Debug\RegexControl.pdb
